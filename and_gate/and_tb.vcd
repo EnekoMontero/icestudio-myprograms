@@ -1,0 +1,69 @@
+$date
+	Mon Aug 28 16:17:38 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module main_tb $end
+$var wire 1 ! out $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$scope module MAIN $end
+$var wire 1 ! v1d1963 $end
+$var wire 1 " vc88f93 $end
+$var wire 1 # vfeee04 $end
+$var wire 5 $ vinit [0:4] $end
+$var wire 1 % w0 $end
+$var wire 1 & w1 $end
+$var wire 1 ' w2 $end
+$scope module v1d0ffd $end
+$var wire 1 % v0e28cb $end
+$var wire 1 & v3ca442 $end
+$var wire 1 ' vcbab45 $end
+$var wire 1 ( w0 $end
+$var wire 1 ) w1 $end
+$var wire 1 * w2 $end
+$scope module vf4938a $end
+$var wire 1 ( a $end
+$var wire 1 ) b $end
+$var wire 1 * c $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0*
+0)
+0(
+0'
+0&
+0%
+b0 $
+0#
+0"
+0!
+$end
+#25
+1)
+1&
+1#
+#50
+0)
+0&
+0#
+1(
+1%
+1"
+#75
+1!
+1'
+1*
+1)
+1&
+1#
+#175
